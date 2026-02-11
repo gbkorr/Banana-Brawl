@@ -6,3 +6,5 @@
 [gameplay images]
 
 remember to have one with hitboxes on (w/ caption 'hitboxes on mode in training'
+
+at the bottom, mention and link that I made a sequel in pure javascript with online play, but never polished the game after getting all the systems working
