@@ -14,8 +14,6 @@ Banana Brawl: A platform fighter. This is an old project I made in my junior yea
 
 <img align="left" width="125" height="150" alt="Screen Shot 2026-02-11 at 14 31 48" src="https://github.com/user-attachments/assets/64826be3-fca6-4df4-a355-5e6537684ceb" /> The Banannon. War machine? Edible produce? Maritial Artist? Nobody knows. Can launch a giant explosive banana every 30 seconds.
 
-<br>
-
 <img align="left" width="70" height="150" alt="Screen Shot 2026-02-11 at 14 35 21" src="https://github.com/user-attachments/assets/b4043848-4ef5-4e6c-a2ad-347e36227569" /> The Bananagent. Master of espionage, weilding a Bananazooka, jetpack, and radio to call in an Intercontinental Banana Missile (ICBM) strike.
 
 <img align="left" width="100" height="150" alt="Screen Shot 2026-02-11 at 14 37 07" src="https://github.com/user-attachments/assets/d1dd9455-957e-4dbc-9aa1-46f66a678c31" /> The Demonana. Unassuming until its inner wrath is unleashed...
@@ -26,7 +24,6 @@ Banana Brawl: A platform fighter. This is an old project I made in my junior yea
 
 <img align="left" width="100" height="150" alt="Screen Shot 2026-02-11 at 14 39 58" src="https://github.com/user-attachments/assets/4fb29e9a-e2cc-43db-a416-ab1d2a383a5f" /> The Snow Banana. Frozen to the core. Can throw snowballs, shovel them to gather snow, and craft the snow into icy weapons.
 
+This formatting is scuffed but I'm keeping it since it looks cool.<br>
 
-
-
-at the bottom, mention and link that I made a sequel in pure javascript with online play, but never polished the game after getting all the systems working
+Anyway, after finishing the game over the summer of 2022, I went on to make a sequel with online multiplayer: [Banana Brawl Bonanza](https://github.com/gbkorr/Banana-Brawl-Bonanza). I got everything working but never fleshed out the game to finish it...
