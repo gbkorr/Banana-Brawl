@@ -7,8 +7,6 @@ function setup() {
 
 	let context = canvas.getContext('2d');
 	context.imageSmoothingEnabled = false;
-
-	setUpGame();
 }
 let halfWidth;
 let halfHeight;
@@ -1050,6 +1048,12 @@ function processGame() {
 	drawUI(); //over everything else
 	
 	if (matchStartTimer) matchStartTimer --;
+	if (stocks[0] <= 0 || stocks[1] <= 0) {
+		menuIndex = 0;
+		winner = stocks[0] <= 0 ? 2 : 1;
+		winnerCharacter = stocks[0] <= 0 ? player2.type : player1.type;
+		gameState = "winscreen";
+	}
 }
 
 let showHitboxes = 0
@@ -1061,7 +1065,7 @@ let totalDamage = [0,0];
 let stocks = [5,5];
 let stockAmount = 5; //I'd suggest 5
 
-function setUpGame() {
+function setUpGame(p1character,p2character,stage) {
 	projectileList = [];
 	frontParticleList = [];
 	backParticleList = [];
@@ -1090,68 +1094,4 @@ function setUpGame() {
 	currentCamera.y = 1000;
 }
 			       																																				    																																				    																																				    																																				
-
-
-let paused = false;
-let spaceDown = 0;
-function draw(){
-	if (keyIsDown(32)) spaceDown ++;
-	else spaceDown = 0;
-	if (spaceDown == 1) paused = !paused;
-
-	buttonsPressed();
-
-	if (!paused) {
-		background(150, 150, 200);
-
-		processGame();
-	}
-}
-
-//CUSTOMTEXT thing
-let tWidth = 24;
-let tHeight = 32;
-let charIndices = {
-	" ": 0,
-	a: 1,
-	b: 2,
-	c: 3,
-	d: 4,
-	e: 5,
-	f: 6,
-	g: 7,
-	h: 8,
-	i: 9,
-	j: 10,
-	k: 11,
-	l: 12,
-	m: 13,
-	n: 14,
-	o: 15,
-	p: 16,
-	q: 17,
-	r: 18,
-	s: 19,
-	t: 20,
-	u: 21,
-	v: 22,
-	w: 23,
-	x: 24,
-	y: 25,
-	z: 26,
-	0: 27,
-	1: 28,
-	2: 29,
-	3: 30,
-	4: 31,
-	5: 32,
-	6: 33,
-	7: 34,
-	8: 35,
-	9: 36,
-}
-function customText(message,x,y,size){
-	for (let i = 0; i < message.length; i ++){
-		image(bananaFont,x + size * i,y,size,size * (tHeight/tWidth),charIndices[message[i]] * tWidth,0,tWidth,tHeight);
-	}
-}
+			

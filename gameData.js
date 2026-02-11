@@ -2421,7 +2421,7 @@ let attackData = {
 				scaling: 0.2
 			});
 
-			if (self.grounded) self.changeAttack(attackData["demonana"]["medLand"]); //makes it harder to wall w/ djcs
+			if (this.grounded) self.changeAttack(attackData["demonana"]["medLand"]); //makes it harder to wall w/ djcs
 
 			self.endAttack(20);
 		},
