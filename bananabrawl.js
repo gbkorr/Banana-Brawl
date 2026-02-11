@@ -110,7 +110,7 @@ let keyCodes = {
 		down: 75,
 
 		jump: 66,
-		attack: 222,
+		attack: 59,
 	}
 };
 let keyValues = {
