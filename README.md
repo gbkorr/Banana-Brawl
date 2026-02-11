@@ -12,17 +12,17 @@ Banana Brawl: A platform fighter. This is an old project I made in my junior yea
 
 ## Characters
 
-<img align="right" width="125" height="150" alt="Screen Shot 2026-02-11 at 14 31 48" src="https://github.com/user-attachments/assets/64826be3-fca6-4df4-a355-5e6537684ceb" /> The Banannon. War machine? Edible produce? Maritial Artist? Nobody knows. Can launch a giant explosive banana every 30 seconds.
+<img align="left" width="125" height="150" alt="Screen Shot 2026-02-11 at 14 31 48" src="https://github.com/user-attachments/assets/64826be3-fca6-4df4-a355-5e6537684ceb" /> The Banannon. War machine? Edible produce? Maritial Artist? Nobody knows. Can launch a giant explosive banana every 30 seconds.
 
-<img width="145" height="310" alt="Screen Shot 2026-02-11 at 14 35 21" src="https://github.com/user-attachments/assets/b4043848-4ef5-4e6c-a2ad-347e36227569" /> The Bananagent. Master of espionage, weilding a Bananazooka, jetpack, and radio to call in an Intercontinental Banana Missile (ICBM) strike.
+<img align="left" width="70" height="150" alt="Screen Shot 2026-02-11 at 14 35 21" src="https://github.com/user-attachments/assets/b4043848-4ef5-4e6c-a2ad-347e36227569" /> The Bananagent. Master of espionage, weilding a Bananazooka, jetpack, and radio to call in an Intercontinental Banana Missile (ICBM) strike.
 
-<img width="236" height="350" alt="Screen Shot 2026-02-11 at 14 37 07" src="https://github.com/user-attachments/assets/d1dd9455-957e-4dbc-9aa1-46f66a678c31" /> The Demonana. Unassuming until its inner wrath is unleashed...
+<img align="left" width="100" height="150" alt="Screen Shot 2026-02-11 at 14 37 07" src="https://github.com/user-attachments/assets/d1dd9455-957e-4dbc-9aa1-46f66a678c31" /> The Demonana. Unassuming until its inner wrath is unleashed...
 
-<img width="330" height="268" alt="Screen Shot 2026-02-11 at 14 38 09" src="https://github.com/user-attachments/assets/354c5950-2aed-428a-a80e-075f6bca0147" /> The Bananimal. Viscious predator with the ability to summon water missiles and giant waves.
+<img align="left" width="185" height="150" alt="Screen Shot 2026-02-11 at 14 38 09" src="https://github.com/user-attachments/assets/354c5950-2aed-428a-a80e-075f6bca0147" /> The Bananimal. Viscious predator with the ability to summon water missiles and giant waves.
 
-<img width="265" height="302" alt="Screen Shot 2026-02-11 at 14 39 12" src="https://github.com/user-attachments/assets/ec6e5982-38c0-4aa8-b2da-c6f5e67d12df" /> The Evil Banana. A rotten peel possessed by otherworldly powers.
+<img align="left" width="130" height="150" alt="Screen Shot 2026-02-11 at 14 39 12" src="https://github.com/user-attachments/assets/ec6e5982-38c0-4aa8-b2da-c6f5e67d12df" /> The Evil Banana. A rotten peel possessed by otherworldly powers.
 
-<img width="212" height="312" alt="Screen Shot 2026-02-11 at 14 39 58" src="https://github.com/user-attachments/assets/4fb29e9a-e2cc-43db-a416-ab1d2a383a5f" /> The Snow Banana. Frozen to the core. Can throw snowballs, shovel them to gather snow, and craft the snow into icy weapons.
+<img align="left" width="100" height="150" alt="Screen Shot 2026-02-11 at 14 39 58" src="https://github.com/user-attachments/assets/4fb29e9a-e2cc-43db-a416-ab1d2a383a5f" /> The Snow Banana. Frozen to the core. Can throw snowballs, shovel them to gather snow, and craft the snow into icy weapons.
 
 
 
