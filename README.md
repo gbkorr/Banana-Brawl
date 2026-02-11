@@ -12,7 +12,7 @@ Banana Brawl: A platform fighter. This is an old project I made in my junior yea
 
 ## Characters
 
-<img width="125" height="150" alt="Screen Shot 2026-02-11 at 14 31 48" src="https://github.com/user-attachments/assets/64826be3-fca6-4df4-a355-5e6537684ceb" align=”right” /> The Banannon. War machine? Edible produce? Maritial Artist? Nobody knows. Can launch a giant explosive banana every 30 seconds.
+<img align="right" width="125" height="150" alt="Screen Shot 2026-02-11 at 14 31 48" src="https://github.com/user-attachments/assets/64826be3-fca6-4df4-a355-5e6537684ceb" /> The Banannon. War machine? Edible produce? Maritial Artist? Nobody knows. Can launch a giant explosive banana every 30 seconds.
 
 <img width="145" height="310" alt="Screen Shot 2026-02-11 at 14 35 21" src="https://github.com/user-attachments/assets/b4043848-4ef5-4e6c-a2ad-347e36227569" /> The Bananagent. Master of espionage, weilding a Bananazooka, jetpack, and radio to call in an Intercontinental Banana Missile (ICBM) strike.
 
