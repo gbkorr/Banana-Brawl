@@ -5,10 +5,10 @@
 
 Banana Brawl: A platform fighter. This is an old project I made in my junior year of high school, but it still holds up!
 
-<img width="500" height="300" alt="Screen Shot 2026-02-11 at 14 25 47" src="https://github.com/user-attachments/assets/5b5be7a6-7603-4a1e-ad89-40e24374f894" />
-<img width="500" height="300" alt="Screen Shot 2026-02-11 at 14 12 01" src="https://github.com/user-attachments/assets/d4e13719-d0b0-4d3b-b401-f2380d37ad7a" />
-<img width="500" height="300" alt="Screen Shot 2026-02-11 at 14 08 35" src="https://github.com/user-attachments/assets/bec2a2c7-1984-438c-8e14-1f99418a7e0e" />
-<img width="500" height="300" alt="Screen Shot 2026-02-11 at 14 20 42" src="https://github.com/user-attachments/assets/730b9a13-1701-4292-8fe5-4bc5916ca50c" />
+<img width="400" height="240" alt="Screen Shot 2026-02-11 at 14 25 47" src="https://github.com/user-attachments/assets/5b5be7a6-7603-4a1e-ad89-40e24374f894" />
+<img width="400" height="240" alt="Screen Shot 2026-02-11 at 14 12 01" src="https://github.com/user-attachments/assets/d4e13719-d0b0-4d3b-b401-f2380d37ad7a" />
+<img width="400" height="240" alt="Screen Shot 2026-02-11 at 14 08 35" src="https://github.com/user-attachments/assets/bec2a2c7-1984-438c-8e14-1f99418a7e0e" />
+<img width="400" height="240" alt="Screen Shot 2026-02-11 at 14 20 42" src="https://github.com/user-attachments/assets/730b9a13-1701-4292-8fe5-4bc5916ca50c" />
 
 ## Characters
 
@@ -58,6 +58,6 @@ Banana Brawl: A platform fighter. This is an old project I made in my junior yea
 <br>
 <br>
 
-This formatting is scuffed but I'm keeping it since it looks cool.<br>
+## History
 
 Anyway, after finishing the game in the summer of 2022, I spent the next eight months making sequel with online multiplayer: [Banana Brawl Bonanza](https://github.com/gbkorr/Banana-Brawl-Bonanza). I got everything working with a great codebase, but never got around to fleshing it out into an actual game...
