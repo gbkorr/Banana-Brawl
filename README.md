@@ -19,18 +19,46 @@ Banana Brawl: A platform fighter. This is an old project I made in my junior yea
 <br>
 <br>
 <br>
-<br>
-<br>
 
 <img align="left" width="70" height="150" alt="Screen Shot 2026-02-11 at 14 35 21" src="https://github.com/user-attachments/assets/b4043848-4ef5-4e6c-a2ad-347e36227569" /> The Bananagent. Master of espionage, weilding a Bananazooka, jetpack, and radio to call in an Intercontinental Banana Missile (ICBM) strike.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <img align="left" width="100" height="150" alt="Screen Shot 2026-02-11 at 14 37 07" src="https://github.com/user-attachments/assets/d1dd9455-957e-4dbc-9aa1-46f66a678c31" /> The Demonana. Unassuming until its inner wrath is unleashed...
+
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <img align="left" width="185" height="150" alt="Screen Shot 2026-02-11 at 14 38 09" src="https://github.com/user-attachments/assets/354c5950-2aed-428a-a80e-075f6bca0147" /> The Bananimal. Vicious predator with the ability to summon water missiles and giant waves.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <img align="left" width="130" height="150" alt="Screen Shot 2026-02-11 at 14 39 12" src="https://github.com/user-attachments/assets/ec6e5982-38c0-4aa8-b2da-c6f5e67d12df" /> The Evil Banana. A rotten peel possessed by otherworldly powers.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <img align="left" width="100" height="150" alt="Screen Shot 2026-02-11 at 14 39 58" src="https://github.com/user-attachments/assets/4fb29e9a-e2cc-43db-a416-ab1d2a383a5f" /> The Snow Banana. Frozen to the core. Can throw snowballs, shovel them to gather snow, and craft the snow into icy weapons.
+
+<br>
+<br>
+<br>
+<br>
+<br>
 
 This formatting is scuffed but I'm keeping it since it looks cool.<br>
 
