@@ -18,11 +18,9 @@ Banana Brawl: A platform fighter. This is an old project I made in my junior yea
 <br>
 <br>
 <br>
-<br>
 
 <img align="left" width="70" height="150" alt="Screen Shot 2026-02-11 at 14 35 21" src="https://github.com/user-attachments/assets/b4043848-4ef5-4e6c-a2ad-347e36227569" /> The Bananagent. Master of espionage, weilding a Bananazooka, jetpack, and radio to call in an Intercontinental Banana Missile (ICBM) strike.
 
-<br>
 <br>
 <br>
 <br>
