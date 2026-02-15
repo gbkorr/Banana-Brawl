@@ -2,6 +2,7 @@
 
 
 <img width="500" height="300" alt="titlescreen" src="https://github.com/user-attachments/assets/d70b4e7c-fdb9-44c4-a315-4b3d6fdad4cd" />
+<video src="https://github.com/gbkorr/Banana-Brawl/blob/main/demo.mp4" width="500" />
 
 Banana Brawl: A platform fighter. This is an old project I made in my junior year of high school, but it still holds up!
 
