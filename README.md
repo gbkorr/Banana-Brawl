@@ -3,7 +3,7 @@
 
 <img width="400" height="240" alt="titlescreen" src="https://github.com/user-attachments/assets/d70b4e7c-fdb9-44c4-a315-4b3d6fdad4cd" /> <img width="400" height="240" src="https://github.com/gbkorr/Banana-Brawl/blob/main/demo.gif" />
 
-Banana Brawl: A platform fighter. This is an old project I made in my junior year of high school, but it still holds up!
+Banana Brawl: A platform fighter in ~1500 lines of code. This is an old project I made in my junior year of high school, but it still holds up!
 
 <img width="400" height="240" alt="Screen Shot 2026-02-11 at 14 25 47" src="https://github.com/user-attachments/assets/5b5be7a6-7603-4a1e-ad89-40e24374f894" />
 <img width="400" height="240" alt="Screen Shot 2026-02-11 at 14 12 01" src="https://github.com/user-attachments/assets/d4e13719-d0b0-4d3b-b401-f2380d37ad7a" />
